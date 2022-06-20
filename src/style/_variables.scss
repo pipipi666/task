@@ -1,0 +1,19 @@
+$background-color: #e3e3e3;
+$text-color: #333;
+$disabled-text: #f4f4f4;
+$label-text: #ccc;
+$inner-shadow: #b5b5b5;
+$primary: #7b61ff;
+$success: #5ee48c;
+$error: #ff6161;
+$shadow: inset 0px 0px 2px 1px $inner-shadow;
+$gradient: conic-gradient(
+  from 205.35deg at 50% 50%,
+  #ff6161 0deg,
+  #7b61ff 63.75deg,
+  #ff6161 121.87deg,
+  #7b61ff 181.87deg,
+  #ff6161 245.62deg,
+  #7b61ff 301.88deg,
+  #ff6161 360deg
+);
